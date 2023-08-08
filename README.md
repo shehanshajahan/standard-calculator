@@ -143,10 +143,10 @@ input:active[type=button] {
 ```
 
 ## OUTPUT:
-![OUTPUT](./output.png)
+![output](output.png)
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./validd.png)
+![html validator](validd.png)
 
 ## Result:
 The program for designing a simple calculator using Javascript is executed successfully.
